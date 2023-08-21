@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.containar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.button {
+  width: 5rem;
+  height: 5rem;
+  border: 2px solid black;
+}
+
+#btn_pink {
+  background-color: pink;
+}
+#btn_red {
+  background-color: red;
+}
+#btn_blue {
+  background-color: blue;
+}
+#btn_white {
+  background-color: white;
+}
